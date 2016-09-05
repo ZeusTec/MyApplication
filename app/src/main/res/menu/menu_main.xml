@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/edit"
+        android:title="@string/menu_edit"
+        android:icon="@mipmap/ic_search_white_24dp"
+        android:orderInCategory="80"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/menu_about"
+        android:icon="@mipmap/unknown_80"
+        android:orderInCategory="90"
+        app:showAsAction="ifRoom" />
+</menu>

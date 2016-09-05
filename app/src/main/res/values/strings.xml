@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IWeather</string>
+    <string name="menu_edit">edit</string>
+    <string name="menu_about">about</string>
+</resources>
